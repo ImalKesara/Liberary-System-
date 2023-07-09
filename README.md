@@ -1,2 +1,2 @@
-# Liberary-System-
-We created libaray system using c language with my university friends.
+# Library-System-
+I created a library system using c language with my university friends.
